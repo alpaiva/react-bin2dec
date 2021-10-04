@@ -1,0 +1,10 @@
+.nav {
+    background-color: rgb(32, 32, 32);
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.menu {
+    text-decoration: none;
+}
